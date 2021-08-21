@@ -9,7 +9,7 @@
     /* border: 2px solid red; */
     text-align: center;
 }
-.start,.pause_play,.stop{
+.start,.pause,.stop{
     font-size: 1.5rem;
     margin: 0.5%;
     padding: 0.5% 1%;

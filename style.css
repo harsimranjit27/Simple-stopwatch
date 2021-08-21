@@ -1,0 +1,16 @@
+.timer{
+    /* border: 2px solid red; */
+    width: 100%;
+    margin: 15% auto 2%;
+    text-align: center;
+    font-size: 5rem;
+}
+.buttons{
+    /* border: 2px solid red; */
+    text-align: center;
+}
+.start,.pause_play,.stop{
+    font-size: 1.5rem;
+    margin: 0.5%;
+    padding: 0.5% 1%;
+}
